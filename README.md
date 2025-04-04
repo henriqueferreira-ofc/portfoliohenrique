@@ -46,7 +46,7 @@ Adicione aqui algumas capturas de tela do seu portfólio para ilustrar o design 
 ## 🤝 Contribuição
 Se desejar contribuir para melhorias no projeto, fique à vontade para abrir um Pull Request.
 
-![Portfólio](https://github.com/henriquearaujooficial/Portfolio/blob/master/.github/portfolio.png)
+![Portfólio](https://github.com/henriqueferreira-ofc/portfoliohenrique/blob/main/images/capaparaprojeto.jpg)
 
 Desenvolvido por Henrique Ferreira 🚀
 
