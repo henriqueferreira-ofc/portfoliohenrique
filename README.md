@@ -1,9 +1,11 @@
 # Portfólio - Henrique Ferreira
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/henriquearaujooficial/Portfolio/blob/master/LICENSE)
+
+Projeto desenvolido em um curso no Youtube onde conseguir aprimorar minhas habilidades nas linguagens abaixo.
 
 Este é o repositório do meu portfólio pessoal, desenvolvido utilizando diversas tecnologias modernas para garantir uma experiência visual atraente e responsiva.
 
-## 🛠 Tecnologias Utilizadas
-O projeto foi desenvolvido com as seguintes tecnologias:
+## 🛠️ Tecnologias Utilizadas:
 - Bootstrap - Framework CSS responsivo para um design moderno e adaptável.
 - jQuery - Biblioteca JavaScript para manipulação do DOM e interatividade.
 - Modernizr - Detecção de recursos HTML5 e CSS3 para garantir compatibilidade.
@@ -44,7 +46,7 @@ Adicione aqui algumas capturas de tela do seu portfólio para ilustrar o design 
 ## 🤝 Contribuição
 Se desejar contribuir para melhorias no projeto, fique à vontade para abrir um Pull Request.
 
-
+![Portfólio](https://github.com/henriquearaujooficial/Portfolio/blob/master/.github/portfolio.png)
 
 Desenvolvido por Henrique Ferreira 🚀
 
